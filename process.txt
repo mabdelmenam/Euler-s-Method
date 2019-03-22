@@ -1,0 +1,14 @@
+/*
+    1. y' = equation = f(xn,yn) *including both t and y*
+    2. initial time
+    3. initial y
+    4. step size 'h'
+    5. time(s)
+        A. n = number of input of times
+        B.  yn+1 = yn + f(xn,yn)*h
+    -Start-
+    6. solve step 1
+    7. go to next 'n'
+    8. find y(t) for current n
+    9. solve step 1
+    */
